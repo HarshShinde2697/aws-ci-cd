@@ -1,0 +1,9 @@
+myenv
+__pycache__
+logs
+catboost_info
+.git
+.ipynb_checkpoints
+*.pyc
+artifacts
+notebook
